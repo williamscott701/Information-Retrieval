@@ -3,6 +3,8 @@ This repo consists of implementation of Unigram Inverted Index and Positional Qu
 
 Jupyter Notebook files are provided to verify the output
 
+Blog: https://medium.com/@williamscott701/information-retrieval-unigram-postings-and-positional-postings-a28b907c4e8
+
 # How to run?
 - Extract the files
 - Open the Jupyter Notebook files and make sure that the dataset is available in the same folder, and run from the beginning.
