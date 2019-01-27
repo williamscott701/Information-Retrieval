@@ -1,3 +1,4 @@
+# Unigram and Positional Indexing
 This repo consists of implementation of Unigram Inverted Index and Positional Query.
 
 Jupyter Notebook files are provided to verify the output
